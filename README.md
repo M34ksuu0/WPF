@@ -47,12 +47,15 @@ Jak korzystać z aplikacji?
 
     8.Zakupiony zawodnik zniknie z rynku i nie będzie można kupić go ponownie.
 
-    9.Zakupy są możliwe tylko wtedy, gdy dostępny budżet jest wystarczający. Po zakupieniu wszystkich zawodników aplikacja poinformuje, że rynek jest pusty.
+    9.Zakupy są możliwe tylko wtedy, gdy dostępny budżet jest wystarczający. 
+    Po zakupieniu wszystkich zawodników aplikacja poinformuje, że rynek jest pusty.
 
 Interfejs użytkownika
 
-Aplikacja posiada ciemny interfejs z granatowym tłem i żółtymi akcentami. Okno podzielone jest na dwie części:
+Aplikacja posiada ciemny interfejs z granatowym tłem i żółtymi akcentami. 
 
-Rynek transferowy – wybór zawodnika, aktualny budżet oraz przycisk zakupu.
+Okno podzielone jest na dwie części:
 
-Moi piłkarze – lista zakupionych zawodników i ich łączna liczba.
+    Rynek transferowy – wybór zawodnika, aktualny budżet oraz przycisk zakupu.
+
+    Moi piłkarze – lista zakupionych zawodników i ich łączna liczba.
