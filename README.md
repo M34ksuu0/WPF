@@ -22,7 +22,7 @@ Funkcje
 
 Dostępni piłkarze
 
-Piłkarz	Cena
+    Piłkarz	Cena
 
     Raphinha	70 mln €
     Jude Bellingham	160 mln €
