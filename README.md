@@ -28,37 +28,26 @@ Dostępni piłkarze
     Jude Bellingham	    160 mln €
     Malen	            55 mln €
     Yamal	            220 mln €
-Technologie
-
-C# – logika aplikacji i obsługa zakupów.
-
-WPF – tworzenie interfejsu graficznego.
-
-XAML – definiowanie wyglądu okna i elementów interfejsu.
-
-ObservableCollection – przechowywanie listy kupionych piłkarzy i aktualizowanie widoku.
-
-Visual Studio – środowisko do tworzenia i uruchamiania projektu.
-
+    
 Jak korzystać z aplikacji?
 
-Uruchom program.
+    1.Uruchom program.
 
-Sprawdź aktualny budżet transferowy.
+    2.Sprawdź aktualny budżet transferowy.
 
-Wybierz piłkarza z listy.
+    3.Wybierz piłkarza z listy.
 
-Kliknij przycisk KUP PIŁKARZA.
+    4.Kliknij przycisk KUP PIŁKARZA.
 
-Sprawdź komunikat o wyniku transakcji.
+    5.Sprawdź komunikat o wyniku transakcji.
 
-Po udanym zakupie budżet zostanie pomniejszony o cenę zawodnika.
+    6.Po udanym zakupie budżet zostanie pomniejszony o cenę zawodnika.
 
-Kupiony piłkarz pojawi się na liście „MOI PIŁKARZE”, a licznik zawodników zostanie zaktualizowany.
+    7.Kupiony piłkarz pojawi się na liście „MOI PIŁKARZE”, a licznik zawodników zostanie zaktualizowany.
 
-Zakupiony zawodnik zniknie z rynku i nie będzie można kupić go ponownie.
+    8.Zakupiony zawodnik zniknie z rynku i nie będzie można kupić go ponownie.
 
-Zakupy są możliwe tylko wtedy, gdy dostępny budżet jest wystarczający. Po zakupieniu wszystkich zawodników aplikacja poinformuje, że rynek jest pusty.
+    9.Zakupy są możliwe tylko wtedy, gdy dostępny budżet jest wystarczający. Po zakupieniu wszystkich zawodników aplikacja poinformuje, że rynek jest pusty.
 
 Interfejs użytkownika
 
