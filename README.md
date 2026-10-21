@@ -22,12 +22,12 @@ Funkcje
 
 Dostępni piłkarze
 
-    Piłkarz	Cena
+    Piłkarz	            Cena
 
-    Raphinha	70 mln €
-    Jude Bellingham	160 mln €
-    Malen	55 mln €
-    Yamal	220 mln €
+    Raphinha	        70 mln €
+    Jude Bellingham	    160 mln €
+    Malen	            55 mln €
+    Yamal	            220 mln €
 Technologie
 
 C# – logika aplikacji i obsługa zakupów.
