@@ -1,0 +1,3 @@
+﻿Płeć: mężczyzna; Wiek: 11; Kolor: niebieski; Zgoda: tak
+Płeć: kobieta; Wiek: 67; Kolor: czerwony; Zgoda: tak
+Płeć: kobieta; Wiek: 43; Kolor: biały; Zgoda: nie
