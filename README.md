@@ -19,6 +19,7 @@ Funkcjonalności
       -niebieski,
       -czarny,
       -biały.
+      
     Zaznaczanie lub odznaczanie zgody.
     
     Walidacja danych przed zapisaniem ankiety.
